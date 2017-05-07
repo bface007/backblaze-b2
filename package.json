@@ -1,6 +1,6 @@
 {
   "name": "backblaze-b2-extended",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Node.js Library for the Backblaze B2 Storage Service. Forked and extended from yakovkhalinsky's",
   "main": "index.js",
   "scripts": {
