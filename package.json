@@ -1,7 +1,7 @@
 {
-  "name": "backblaze-b2",
-  "version": "1.0.2",
-  "description": "Node.js Library for the Backblaze B2 Storage Service",
+  "name": "backblaze-b2-extended",
+  "version": "1.0.0",
+  "description": "Node.js Library for the Backblaze B2 Storage Service. Forked and extended from yakovkhalinsky's",
   "main": "index.js",
   "scripts": {
     "test": "npm run lint-all && npm run test-unit",
@@ -15,17 +15,17 @@
     "b2",
     "storage"
   ],
-  "homepage": "https://github.com/yakovkhalinsky/backblaze-b2",
+  "homepage": "https://github.com/bface007/backblaze-b2",
   "author": {
-    "name": "Yakov Khalinsky",
-    "email": "yakov@therocketsurgeon.com"
+    "name": "Dan Ngossinga",
+    "email": "bface007@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yakovkhalinsky/backblaze-b2.git"
+    "url": "https://github.com/bface007/backblaze-b2.git"
   },
   "bugs": {
-    "url": "https://github.com/yakovkhalinsky/backblaze-b2/issues"
+    "url": "https://github.com/bface007/backblaze-b2/issues"
   },
   "license": "MIT",
   "devDependencies": {
